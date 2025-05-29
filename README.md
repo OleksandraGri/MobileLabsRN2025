@@ -11,3 +11,8 @@
 ![MAD_lab2(pic3)](https://github.com/user-attachments/assets/6290d0fc-3020-4887-b8b5-aba3432be34c)
 ![MAD_lab2(pic4)](https://github.com/user-attachments/assets/e8da969a-37aa-4a17-97da-531873a9f172)
 ![MAD_lab2(pic5)](https://github.com/user-attachments/assets/1bcf558d-6560-4a11-a1b1-ef96f1839999)
+
+# lab3
+![MAD_lab3(pic1)](https://github.com/user-attachments/assets/02b45b3c-a451-48b2-9512-7d32612d5ab8)
+![MAD_lab3(pic2)](https://github.com/user-attachments/assets/318cd57f-61ed-460f-aa4d-6ee60c2d26fd)
+
